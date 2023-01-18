@@ -7,5 +7,5 @@
 
 ## Table of Contents
 * Python Course
-  * Unit 1
-  
+  * [Unit 1](/Unit_1)
+  * [Day 1](/Unit_1/Day_1)
